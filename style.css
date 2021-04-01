@@ -1,0 +1,10 @@
+.container{
+    display: grid;
+    gap: 8px;
+    justify-content: center;
+    justify-items: center;
+}
+
+img{
+    cursor:grab;
+}
